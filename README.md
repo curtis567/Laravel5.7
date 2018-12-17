@@ -21,7 +21,7 @@ vscode + XAMPP + Laravel + php + Vue.js + mySQL
 
                                            3. 設定api權限
 
-![image](https://github.com/curtis567/Laravel5.7/blob/master/4.PNG)
+![image](https://github.com/curtis567/Laravel5.7/blob/master/5.PNG)
 
                                            4. 個人資料的變更
 
