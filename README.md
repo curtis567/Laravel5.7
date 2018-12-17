@@ -11,11 +11,15 @@ vscode + XAMPP + Laravel + php + Vue.js + mySQL
 
 ◆ php artisan migrate
 
-                                           admin進入的畫面，如要調整權限可進入db調整
+                                           1. 無權限或是有問題都會到這一頁
                  
 ![image](https://github.com/curtis567/Laravel5.7/blob/master/1.PNG)
 
+                                           2. admin可進入這頁調整資料，第一個帳號需到db調整為admin
+
 ![image](https://github.com/curtis567/Laravel5.7/blob/master/2.PNG)
+
+                                           3. 個人資料的變更
 
 ![image](https://github.com/curtis567/Laravel5.7/blob/master/3.PNG)
 
