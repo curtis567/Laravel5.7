@@ -11,4 +11,4 @@ vscode + XAMPP + Laravel + php + Vue.js + mySQL
 
 ◆ php artisan migrate
 
-![image]()
+![image](https://github.com/curtis567/Laravel5.7/blob/master/1.PNG)
