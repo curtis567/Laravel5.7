@@ -10,3 +10,4 @@ vscode + XAMPP + Laravel + php + Vue.js + mySQL
 ◆ npm install
 
 ◆ php artisan migrate
+
