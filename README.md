@@ -25,5 +25,5 @@ vscode + XAMPP + Laravel + php + Vue.js + mySQL
 
                                            4. 個人資料的變更
 
-![image](https://github.com/curtis567/Laravel5.7/blob/master/4.PNG)
+![image](https://github.com/curtis567/Laravel5.7/blob/master/7.PNG)
 
